@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://PaperHound.github.io
+title: Paper Hound
+tagline: Ink stains, Wonders & Wanders
+description: A non-regular posting of creative musings. 
+paginate: 5
